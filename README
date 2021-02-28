@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2Flinode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2Flinode?ref=badge_shield)
+
 
 Linode DynDNS Updater
 By Jed Smith <jed@jedsmith.org>
@@ -6,3 +8,7 @@ For customers of Linode that use the Linode DNS manager.  Released into the publ
 
 Requires Python 3.0 or above.  Python 2.6 may work.
 Contains directions in the script (which you'll have to edit anyway).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2Flinode.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2Flinode?ref=badge_large)
